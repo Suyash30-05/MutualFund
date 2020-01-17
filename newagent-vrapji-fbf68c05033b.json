@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newagent-vrapji",
+  "private_key_id": "fbf68c05033b4c4a2cd2fed7553a427b69a34278",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC41doaWTAWrHpq\nTyRw1YQ/QJ/xjg7uSG+v7Ne5inYKF6R7fYRdhMZqz0P+cJsL0LDmMNMe8jkRPuXx\n7eF6qWCmevgKd3lXIQQJI1uX/Du1y3DU/8H+sruwhjNj2le0eJICOg77UFMRw4l3\ntjsNfnUIMTKAKNshe6AJK/TjECRlnmG6tnFsFCZ2fNDTQpYf/gWr7H2btJsMYCgN\n8xZDJQI7JqgRZhI25XYCMeBaS/stOO2zlBYFFc1T9ituIG//6U3MD5iYlDyTWnTT\n4oGnSDkzbycxqWZea7RsQzU3TqxUpZ01XBXEzCEFrfrq9KShQxwNxvfrRRngPVZX\n3Z9t5hU7AgMBAAECggEAFQzIdam57/XH9zrOKUotG9BYpszekcU5cFf7ystPCB/g\ngUPZLZavy32RU8qFOIJAMzxU6Y2nxs6v/K5yYw15JAdAdQiy4/kERE984JaUQkRK\nCafwSE5t+6Y8916SuyCOwvwpCqFU5I1X/C81EyNXYWMg9OGHmzeWET//+AAK9RuI\nqhfDj3D9+sU1O4d1u2CmP39ixVuhETovy5XBdA+0fK7AIOIrFpUtfUNSN92C6vlB\n5kmBv23zWclKSfJz9laKBiUYvub1B5dywXY4OL7rB9EXyvdINlQElLUOUaEk3l+f\n00hrNA90KQmoypXM96G9hfLDlGW39t3KsvBWGBVl4QKBgQD++lSAmbEE1WtY2HM7\nPLe4cMY+Knaw465y3OuTHZnfAtBJXfdz0Hx9B/GIbGsnp9ORO9pLk8Xe/5uyzAZ0\naVxk4NeDtSFcNTvU5SVEie98JLXS69Yk6YA9tKxVFO+aGLdvuG+TRZT4Q7v78Du4\nTqoc8qaCl6WcHDk6vQUQT+1s6wKBgQC5k4nXyZ81qxDZ5wHBQSaTeKwh5XsFlKMs\n6oCK3s0TooJQZi3xOv08Qg7g51A9C0LHvOHomBS80k1SDLC4gWSv3eJEnEyFP9bz\nIoJqHeQAi471t+z2d/ERsRLPZT1Qm20XJphYUKMXl0taIKvtc31M0QHVZ8rVW6O9\nvIPw6dSk8QKBgQCLIKzbPwGIUauxXuoBeLAGxAJoCWOaQaH+qu0f6Rb8yNw+LDfJ\nygkjcCIq/n25tamLpc0HUCq382FRvmIHQzZXFRiDlWIOnj13fVFIhLtYUe+kl2rR\n2VdQVDV0d2gF/Vaab1jyUxVmIg+A+SSc/M913DFfML/83qmbk2gf7nzu4QKBgDOo\nSS+jNUlYNBmj/04PV7CnX6sT2RnllUKUiHGfsZBspT/CIbnLxOA4NzIN0b0cXFuD\nTZNUejlRhSp409yYUDHQXwLgS0CwU6Jckdb+ORCZyJLHvxOgsZ9OHkFTGi1NBqHy\nIWg8EhooCFavT4yKoG94or0H5mNb3gmb51JxlLrRAoGBAKfZ9SIEvVqDj4HF/K+n\n4QkwhKSzw+pcOrGcSq6GqIpr4F/y54Src+YvMlI0Qa+sFVcXnsxj3bcjnkfHrDDA\nRnYs8qfv0REfzUh074oxb6opjgG1KjmmuIGfVJcF2kASfcBpuc2+TESCTFhcF3nV\n6n4+8RKRKDo1cuM0lgFXwJSh\n-----END PRIVATE KEY-----\n",
+  "client_email": "mutualfund@newagent-vrapji.iam.gserviceaccount.com",
+  "client_id": "100131521728179501396",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mutualfund%40newagent-vrapji.iam.gserviceaccount.com"
+}
